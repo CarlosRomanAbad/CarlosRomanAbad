@@ -48,7 +48,7 @@
   
 [![Carlos's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosRomanAbad&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=CarlosRomanAbad&show_icons=true&theme=tokyonight) | ![Carlos GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CarlosRomanAbad&theme=tokyonight) |
+| ![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=CarlosRomanAbad&show_icons=true&theme=tokyonight) | ![Carlos GitHub Streak](https://streak-stats.demolab.com/?user=CarlosRomanAbad&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRomanAbad&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=CarlosRomanAbad&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
@@ -59,4 +59,4 @@
 -----
 Credits: [Carlos Román Abad](https://github.com/CarlosRomanAbad)
 
-Last Edited on: 04/09/2021
+Last Edited on: 19/05/2024
