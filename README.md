@@ -2,7 +2,12 @@
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=carlitosromvn&color=blue)
 
-¡Bienvenido a mi perfil de GitHub!
+¡Bienvenido a mi perfil de GitHub!, soy Carlos Román Abad, estudiante de los Salesianos de Triana en 2do DAM actualmente.
+Soy un curioso de la tecnologia y me encanta aprender todos los dias algo nuevo.
+
+Me encuentro actualmente aprendiendo python como lenguaje de programacion, a desarrollar API'S REST con springboot y a desarrollar apps en Angular.
+
+
 
 ## 🛠 Tecnologías que uso
 
