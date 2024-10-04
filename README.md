@@ -33,6 +33,6 @@ Me encuentro actualmente aprendiendo python como lenguaje de programacion, a des
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CarlosRomanAbad&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRomanAbad&layout=compact&theme=radical" alt="Top Langs"/>
-  <img src="https://streak-stats.demolab.com?user=CarlosRomanAbad&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=CarlosRomanAbad&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 </p>
