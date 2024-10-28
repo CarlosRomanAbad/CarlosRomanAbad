@@ -10,7 +10,6 @@ Me encuentro actualmente aprendiendo python como lenguaje de programacion, a des
 
 
 ## 🛠 Tecnologías que uso
-
 ## 🛠 Tecnologías que uso
 
 <p align="center">
