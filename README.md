@@ -10,7 +10,6 @@ Me encuentro actualmente aprendiendo python como lenguaje de programacion, a des
 
 
 ## 🛠 Tecnologías que uso
-## 🛠 Tecnologías que uso
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
